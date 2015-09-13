@@ -10,7 +10,6 @@ Webcam
 Chasis
 
 Project:
-
 The hardware is based on Arduino microcontroller and an external webcam connected via an intermediate personal
 computer where all the image processing takes place. Both the Arduino and the webcam are mounted on a chassis. 
 
