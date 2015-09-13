@@ -1,12 +1,14 @@
 Human_Following_Bot
 
 Dependencies:
-OpenCV
+
+OpenCV,
 PySerial
 
 Hardware:
-Arduino Uno
-Webcam
+
+Arduino Uno,
+Webcam,
 Chasis
 
 Project:
